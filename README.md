@@ -1,1 +1,1 @@
-This is a simple android application that shows connected ip informain.
+This is a simple android application that shows connected ip information.
